@@ -1,4 +1,5 @@
 <?php
+// Using Africa is talking's API
 /* Simple sample USSD registration application
  * USSD gateway that is being used is Africa's Talking USSD gateway
  */
